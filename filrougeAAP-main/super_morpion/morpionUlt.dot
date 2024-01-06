@@ -1,0 +1,182 @@
+digraph {
+  a0 [shape=none label=<<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="black">
+    <TR>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+ </TR>
+ <TR>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+ </TR>
+ <TR>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD bgcolor="black">
+<TABLE border="0" cellspacing="10" cellpadding="10" style="rounded" bgcolor="white">
+  <TR>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">x</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">o</TD>
+  </TR>
+  <TR>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+    <TD bgcolor="white">.</TD>
+  </TR>
+</TABLE>
+</TD>
+ </TR>
+ </TABLE>
+>];
+}
